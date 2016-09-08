@@ -1,5 +1,8 @@
-com\diegoalves\bugweb\model\Project_.class
-com\diegoalves\bugweb\sessionbeans\ProjectRepository.class
+com\diegoalves\bugweb\managedbeans\ProjectMB.class
+com\diegoalves\bugweb\sessionbeans\BugRepository.class
+com\diegoalves\bugweb\managedbeans\BugMB.class
 com\diegoalves\bugweb\model\Bug.class
 com\diegoalves\bugweb\model\Bug_.class
+com\diegoalves\bugweb\model\Project_.class
+com\diegoalves\bugweb\sessionbeans\ProjectRepository.class
 com\diegoalves\bugweb\model\Project.class

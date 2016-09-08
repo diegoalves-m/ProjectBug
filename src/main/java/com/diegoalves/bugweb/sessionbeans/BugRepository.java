@@ -19,6 +19,10 @@ public class BugRepository {
         manager.persist(bug);
     }
     
+    public void edit(Bug bug) {
+        manager.merge(bug);
+    }
+    
     public void removeById(Long id) {
         Bug bug = manager.find(Bug.class, id);
         manager.remove(bug);

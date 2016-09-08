@@ -50,4 +50,8 @@ public class ProjectMB {
         return project;
     }
     
+    public String toBugs() {
+        return "bugs.xhtml";
+    }
+    
 }
